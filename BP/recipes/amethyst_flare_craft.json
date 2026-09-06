@@ -1,0 +1,28 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "signal_flares:amethyst_flare_craft"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "  a",
+      " a ",
+      "b  "
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "b": {
+        "item": "minecraft:iron_nugget"
+      }
+    },
+    "result": {
+      "item": "signal_flares:amethyst_flare_shell",
+      "count": 1
+    }
+  }
+}

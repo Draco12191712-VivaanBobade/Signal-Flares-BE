@@ -1,0 +1,51 @@
+## Метаданни на пакета
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Сигнални ракети с цветен дим - Порт за Bedrock. Оригинален мод от RollingDice26. Порт за Bedrock от Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Предмети
+item.signal_flares.red_flare_shell=Червен корпус на сигнална ракета
+item.signal_flares.green_flare_shell=Зелен корпус на сигнална ракета
+item.signal_flares.blue_flare_shell=Син корпус на сигнална ракета
+item.signal_flares.white_flare_shell=Бял корпус на сигнална ракета
+item.signal_flares.yellow_flare_shell=Жълт корпус на сигнална ракета
+item.signal_flares.pink_flare_shell=Розов корпус на сигнална ракета
+item.signal_flares.cyan_flare_shell=Циан корпус на сигнална ракета
+item.signal_flares.orange_flare_shell=Оранжев корпус на сигнална ракета
+item.signal_flares.black_flare_shell=Черен корпус на сигнална ракета
+item.signal_flares.glowstone_flare_shell=Корпус на сигнална ракета от светлокамък
+item.signal_flares.amethyst_flare_shell=Аметистов корпус на сигнална ракета
+item.signal_flares.iron_flare_shell=Железен корпус на сигнална ракета
+item.signal_flares.echo_flare_shell=Ехо корпус на сигнална ракета
+item.signal_flares.green_light_stick=Зелена светлинна пръчка
+item.signal_flares.pink_light_stick=Розова светлинна пръчка
+item.signal_flares.cyan_light_stick=Циан светлинна пръчка
+item.signal_flares.stickly_light_stick=Зелена лепкава светлинна пръчка
+item.signal_flares.sticky_cyan_light_stick=Циан лепкава светлинна пръчка
+item.signal_flares.sticky_pink_light_stick=Розова лепкава светлинна пръчка
+item.signal_flares.echo_light_stick=Ехо светлинна пръчка
+item.signal_flares.flare_gun=Сигнален пистолет
+item.signal_flares.range_finder=Далекомер
+
+## Блокове
+tile.signal_flares:light_stick_block.name=Блок от светлинни пръчки
+
+## Същности
+entity.signal_flares:light_stick_e.name=Светлинна пръчка
+entity.signal_flares:pink_light_stick_e.name=Светлинна пръчка
+entity.signal_flares:cyan_light_stick_e.name=Светлинна пръчка
+entity.signal_flares:sticky_light_stick_e.name=Светлинна пръчка
+entity.signal_flares:sticky_cyan_light_stick_e.name=Светлинна пръчка
+entity.signal_flares:sticky_pink_light_stick_e.name=Светлинна пръчка
+entity.signal_flares:echo_light_stick_e.name=Светлинна пръчка
+entity.signal_flares:red_flare.name=Червена сигнална ракета
+entity.signal_flares:green_flare.name=Зелена сигнална ракета
+entity.signal_flares:blue_flare.name=Синя сигнална ракета
+entity.signal_flares:white_flare.name=Бяла сигнална ракета
+entity.signal_flares:yellow_flare.name=Жълта сигнална ракета
+entity.signal_flares:pink_flare.name=Розова сигнална ракета
+entity.signal_flares:cyan_flare.name=Циан сигнална ракета
+entity.signal_flares:orange_flare.name=Оранжева сигнална ракета
+entity.signal_flares:black_flare.name=Черна сигнална ракета
+entity.signal_flares:glowstone_flare.name=Сигнална ракета от светлокамък
+entity.signal_flares:amethyst_flare.name=Аметистова сигнална ракета
+entity.signal_flares:iron_flare.name=Желязна сигнална ракета

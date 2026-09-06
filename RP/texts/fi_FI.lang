@@ -1,0 +1,51 @@
+## Paketin metatiedot
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Värillistä savua tuottavat hätäsoihdut - Bedrock-porttaus. Alkuperäinen modi: RollingDice26. Bedrock-porttaus: Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Esineet
+item.signal_flares.red_flare_shell=Punainen hätäsoihdun kuori
+item.signal_flares.green_flare_shell=Vihreä hätäsoihdun kuori
+item.signal_flares.blue_flare_shell=Sininen hätäsoihdun kuori
+item.signal_flares.white_flare_shell=Valkoinen hätäsoihdun kuori
+item.signal_flares.yellow_flare_shell=Keltainen hätäsoihdun kuori
+item.signal_flares.pink_flare_shell=Vaaleanpunainen hätäsoihdun kuori
+item.signal_flares.cyan_flare_shell=Syaani hätäsoihdun kuori
+item.signal_flares.orange_flare_shell=Oranssi hätäsoihdun kuori
+item.signal_flares.black_flare_shell=Musta hätäsoihdun kuori
+item.signal_flares.glowstone_flare_shell=Hohtokivestä valmistettu hätäsoihdun kuori
+item.signal_flares.amethyst_flare_shell=Ametistinen hätäsoihdun kuori
+item.signal_flares.iron_flare_shell=Rautainen hätäsoihdun kuori
+item.signal_flares.echo_flare_shell=Kaikukiven hätäsoihdun kuori
+item.signal_flares.green_light_stick=Vihreä valotikku
+item.signal_flares.pink_light_stick=Vaaleanpunainen valotikku
+item.signal_flares.cyan_light_stick=Syaani valotikku
+item.signal_flares.stickly_light_stick=Tahmea vihreä valotikku
+item.signal_flares.sticky_cyan_light_stick=Tahmea syaani valotikku
+item.signal_flares.sticky_pink_light_stick=Tahmea vaaleanpunainen valotikku
+item.signal_flares.echo_light_stick=Kaikuvalotikku
+item.signal_flares.flare_gun=Hätäsoihtupistooli
+item.signal_flares.range_finder=Etäisyysmittari
+
+## Kuutiot
+tile.signal_flares:light_stick_block.name=Valotikkukuutio
+
+## Entiteetit
+entity.signal_flares:light_stick_e.name=Valotikku
+entity.signal_flares:pink_light_stick_e.name=Valotikku
+entity.signal_flares:cyan_light_stick_e.name=Valotikku
+entity.signal_flares:sticky_light_stick_e.name=Valotikku
+entity.signal_flares:sticky_cyan_light_stick_e.name=Valotikku
+entity.signal_flares:sticky_pink_light_stick_e.name=Valotikku
+entity.signal_flares:echo_light_stick_e.name=Valotikku
+entity.signal_flares:red_flare.name=Punainen hätäsoihtu
+entity.signal_flares:green_flare.name=Vihreä hätäsoihtu
+entity.signal_flares:blue_flare.name=Sininen hätäsoihtu
+entity.signal_flares:white_flare.name=Valkoinen hätäsoihtu
+entity.signal_flares:yellow_flare.name=Keltainen hätäsoihtu
+entity.signal_flares:pink_flare.name=Vaaleanpunainen hätäsoihtu
+entity.signal_flares:cyan_flare.name=Syaani hätäsoihtu
+entity.signal_flares:orange_flare.name=Oranssi hätäsoihtu
+entity.signal_flares:black_flare.name=Musta hätäsoihtu
+entity.signal_flares:glowstone_flare.name=Hohtokivihätäsoihtu
+entity.signal_flares:amethyst_flare.name=Ametistinen hätäsoihtu
+entity.signal_flares:iron_flare.name=Rautainen hätäsoihtu

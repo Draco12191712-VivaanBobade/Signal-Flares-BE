@@ -1,0 +1,31 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "signal_flares:flare_gun",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "textures": {
+          "default": "signal_flares:flare_gun"
+        }
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:display_name": {
+        "value": "item.signal_flares.flare_gun"
+      },
+      "minecraft:hand_equipped": true,
+      "minecraft:durability": {
+        "max_durability": 150
+      },
+      "minecraft:cooldown": {
+        "category": "signal_flares_gun",
+        "duration": 1.0
+      },
+      "minecraft:interact_button": "Fire"
+    }
+  }
+}

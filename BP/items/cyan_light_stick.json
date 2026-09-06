@@ -1,0 +1,27 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "signal_flares:cyan_light_stick",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "textures": {
+          "default": "signal_flares:cyan_light_stick"
+        }
+      },
+      "minecraft:max_stack_size": 64,
+      "minecraft:display_name": {
+        "value": "item.signal_flares.cyan_light_stick"
+      },
+      "minecraft:cooldown": {
+        "category": "signal_flares_stick",
+        "duration": 0.1
+      },
+      "minecraft:interact_button": "Throw"
+    }
+  }
+}

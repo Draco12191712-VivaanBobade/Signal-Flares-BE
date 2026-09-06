@@ -1,0 +1,51 @@
+## Pakkemetadata
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Nødbluss med farget røyk - Bedrock-port. Original mod av RollingDice26. Bedrock-port av Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Gjenstander
+item.signal_flares.red_flare_shell=Rødt nødblusshylster
+item.signal_flares.green_flare_shell=Grønt nødblusshylster
+item.signal_flares.blue_flare_shell=Blått nødblusshylster
+item.signal_flares.white_flare_shell=Hvitt nødblusshylster
+item.signal_flares.yellow_flare_shell=Gult nødblusshylster
+item.signal_flares.pink_flare_shell=Rosa nødblusshylster
+item.signal_flares.cyan_flare_shell=Cyan nødblusshylster
+item.signal_flares.orange_flare_shell=Oransje nødblusshylster
+item.signal_flares.black_flare_shell=Svart nødblusshylster
+item.signal_flares.glowstone_flare_shell=Glødesteins-nødblusshylster
+item.signal_flares.amethyst_flare_shell=Ametyst-nødblusshylster
+item.signal_flares.iron_flare_shell=Jern-nødblusshylster
+item.signal_flares.echo_flare_shell=Ekko-nødblusshylster
+item.signal_flares.green_light_stick=Grønn lysstav
+item.signal_flares.pink_light_stick=Rosa lysstav
+item.signal_flares.cyan_light_stick=Cyan lysstav
+item.signal_flares.stickly_light_stick=Klebrig grønn lysstav
+item.signal_flares.sticky_cyan_light_stick=Klebrig cyan lysstav
+item.signal_flares.sticky_pink_light_stick=Klebrig rosa lysstav
+item.signal_flares.echo_light_stick=Ekko-lysstav
+item.signal_flares.flare_gun=Nødblusspistol
+item.signal_flares.range_finder=Avstandsmåler
+
+## Blokker
+tile.signal_flares:light_stick_block.name=Lysstavblokk
+
+## Entiteter
+entity.signal_flares:light_stick_e.name=Lysstav
+entity.signal_flares:pink_light_stick_e.name=Lysstav
+entity.signal_flares:cyan_light_stick_e.name=Lysstav
+entity.signal_flares:sticky_light_stick_e.name=Lysstav
+entity.signal_flares:sticky_cyan_light_stick_e.name=Lysstav
+entity.signal_flares:sticky_pink_light_stick_e.name=Lysstav
+entity.signal_flares:echo_light_stick_e.name=Lysstav
+entity.signal_flares:red_flare.name=Rødt nødbluss
+entity.signal_flares:green_flare.name=Grønt nødbluss
+entity.signal_flares:blue_flare.name=Blått nødbluss
+entity.signal_flares:white_flare.name=Hvitt nødbluss
+entity.signal_flares:yellow_flare.name=Gult nødbluss
+entity.signal_flares:pink_flare.name=Rosa nødbluss
+entity.signal_flares:cyan_flare.name=Cyan nødbluss
+entity.signal_flares:orange_flare.name=Oransje nødbluss
+entity.signal_flares:black_flare.name=Svart nødbluss
+entity.signal_flares:glowstone_flare.name=Glødesteins-nødbluss
+entity.signal_flares:amethyst_flare.name=Ametyst-nødbluss
+entity.signal_flares:iron_flare.name=Jern-nødbluss

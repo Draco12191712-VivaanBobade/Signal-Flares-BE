@@ -1,0 +1,28 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "signal_flares:iron_flare_craft"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "  a",
+      " b ",
+      "a  "
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:iron_nugget"
+      },
+      "b": {
+        "item": "minecraft:cobblestone"
+      }
+    },
+    "result": {
+      "item": "signal_flares:iron_flare_shell",
+      "count": 1
+    }
+  }
+}

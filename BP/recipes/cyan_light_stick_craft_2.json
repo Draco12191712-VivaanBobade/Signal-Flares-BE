@@ -1,0 +1,31 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "signal_flares:cyan_light_stick_craft_2"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " ab",
+      "aca",
+      "ba "
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:glass"
+      },
+      "b": {
+        "item": "minecraft:cyan_dye"
+      },
+      "c": {
+        "item": "minecraft:glowstone_dust"
+      }
+    },
+    "result": {
+      "item": "signal_flares:cyan_light_stick",
+      "count": 4
+    }
+  }
+}

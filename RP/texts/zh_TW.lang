@@ -1,0 +1,51 @@
+## 資源包中繼資料
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares：帶有彩色煙霧的信號彈 - Bedrock 移植版。原始 Mod：RollingDice26。Bedrock 移植：Draco12191712（Vivaan Bobade）v0.0.1-alpha.1
+
+## 物品
+item.signal_flares.red_flare_shell=紅色信號彈殼
+item.signal_flares.green_flare_shell=綠色信號彈殼
+item.signal_flares.blue_flare_shell=藍色信號彈殼
+item.signal_flares.white_flare_shell=白色信號彈殼
+item.signal_flares.yellow_flare_shell=黃色信號彈殼
+item.signal_flares.pink_flare_shell=粉紅色信號彈殼
+item.signal_flares.cyan_flare_shell=青色信號彈殼
+item.signal_flares.orange_flare_shell=橘色信號彈殼
+item.signal_flares.black_flare_shell=黑色信號彈殼
+item.signal_flares.glowstone_flare_shell=螢石信號彈殼
+item.signal_flares.amethyst_flare_shell=紫水晶信號彈殼
+item.signal_flares.iron_flare_shell=鐵信號彈殼
+item.signal_flares.echo_flare_shell=回聲信號彈殼
+item.signal_flares.green_light_stick=綠色螢光棒
+item.signal_flares.pink_light_stick=粉紅色螢光棒
+item.signal_flares.cyan_light_stick=青色螢光棒
+item.signal_flares.stickly_light_stick=黏性綠色螢光棒
+item.signal_flares.sticky_cyan_light_stick=黏性青色螢光棒
+item.signal_flares.sticky_pink_light_stick=黏性粉紅色螢光棒
+item.signal_flares.echo_light_stick=回聲螢光棒
+item.signal_flares.flare_gun=信號槍
+item.signal_flares.range_finder=測距儀
+
+## 方塊
+tile.signal_flares:light_stick_block.name=螢光棒方塊
+
+## 實體
+entity.signal_flares:light_stick_e.name=螢光棒
+entity.signal_flares:pink_light_stick_e.name=螢光棒
+entity.signal_flares:cyan_light_stick_e.name=螢光棒
+entity.signal_flares:sticky_light_stick_e.name=螢光棒
+entity.signal_flares:sticky_cyan_light_stick_e.name=螢光棒
+entity.signal_flares:sticky_pink_light_stick_e.name=螢光棒
+entity.signal_flares:echo_light_stick_e.name=螢光棒
+entity.signal_flares:red_flare.name=紅色信號彈
+entity.signal_flares:green_flare.name=綠色信號彈
+entity.signal_flares:blue_flare.name=藍色信號彈
+entity.signal_flares:white_flare.name=白色信號彈
+entity.signal_flares:yellow_flare.name=黃色信號彈
+entity.signal_flares:pink_flare.name=粉紅色信號彈
+entity.signal_flares:cyan_flare.name=青色信號彈
+entity.signal_flares:orange_flare.name=橘色信號彈
+entity.signal_flares:black_flare.name=黑色信號彈
+entity.signal_flares:glowstone_flare.name=螢石信號彈
+entity.signal_flares:amethyst_flare.name=紫水晶信號彈
+entity.signal_flares:iron_flare.name=鐵信號彈

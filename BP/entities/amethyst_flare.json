@@ -1,0 +1,85 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "signal_flares:amethyst_flare",
+      "is_spawnable": false,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "component_groups": {
+      "signal_flares:gravity_on": {
+        "minecraft:projectile": {
+          "on_hit": {
+            "impact_damage": {
+              "damage": 8,
+              "knockback": true,
+              "semi_random_diff_damage": false,
+              "destroy_on_hit": true,
+              "catch_fire": true
+            },
+            "remove_on_hit": {}
+          },
+          "power": 2.5,
+          "gravity": 0.05,
+          "inertia": 1.0,
+          "liquid_inertia": 0.99,
+          "uncertainty_base": 0,
+          "uncertainty_multiplier": 0,
+          "anchor": 1,
+          "should_bounce": false,
+          "hit_sound": "bow.hit"
+        }
+      }
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": [
+          "signal_flares",
+          "sf_flare",
+          "sf_active"
+        ]
+      },
+      "minecraft:collision_box": {
+        "width": 0.5,
+        "height": 0.5
+      },
+      "minecraft:physics": {},
+      "minecraft:pushable": {
+        "is_pushable": false,
+        "is_pushable_by_piston": false
+      },
+      "minecraft:projectile": {
+        "on_hit": {
+          "impact_damage": {
+            "damage": 8,
+            "knockback": true,
+            "semi_random_diff_damage": false,
+            "destroy_on_hit": true,
+            "catch_fire": true
+          },
+          "remove_on_hit": {}
+        },
+        "power": 2.5,
+        "gravity": 0.0,
+        "inertia": 1.0,
+        "liquid_inertia": 0.99,
+        "uncertainty_base": 0,
+        "uncertainty_multiplier": 0,
+        "anchor": 1,
+        "should_bounce": false,
+        "hit_sound": "bow.hit"
+      },
+      "minecraft:conditional_bandwidth_optimization": {}
+    },
+    "events": {
+      "signal_flares:gravity_on": {
+        "add": {
+          "component_groups": [
+            "signal_flares:gravity_on"
+          ]
+        }
+      }
+    }
+  }
+}

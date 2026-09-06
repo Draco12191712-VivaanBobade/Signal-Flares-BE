@@ -1,0 +1,31 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "signal_flares:pink_light_stick_craft_0"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " ab",
+      "aca",
+      "ba "
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:glass"
+      },
+      "b": {
+        "item": "minecraft:pink_dye"
+      },
+      "c": {
+        "item": "minecraft:glow_berries"
+      }
+    },
+    "result": {
+      "item": "signal_flares:pink_light_stick",
+      "count": 4
+    }
+  }
+}

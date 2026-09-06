@@ -1,5 +1,5 @@
 {
-  "format_version": "1.10.0",
+  "format_version": "1.26.0",
   "minecraft:client_entity": {
     "description": {
       "identifier": "signal_flares:sticky_pink_light_stick_e",

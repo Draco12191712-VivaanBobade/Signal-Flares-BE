@@ -1,0 +1,51 @@
+## Pakketmetagegevens
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Fakkels met gekleurde rook - Bedrock-port. Originele mod door RollingDice26. Bedrock-port door Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Voorwerpen
+item.signal_flares.red_flare_shell=Rode fakkelhuls
+item.signal_flares.green_flare_shell=Groene fakkelhuls
+item.signal_flares.blue_flare_shell=Blauwe fakkelhuls
+item.signal_flares.white_flare_shell=Witte fakkelhuls
+item.signal_flares.yellow_flare_shell=Gele fakkelhuls
+item.signal_flares.pink_flare_shell=Roze fakkelhuls
+item.signal_flares.cyan_flare_shell=Turkooizen fakkelhuls
+item.signal_flares.orange_flare_shell=Oranje fakkelhuls
+item.signal_flares.black_flare_shell=Zwarte fakkelhuls
+item.signal_flares.glowstone_flare_shell=Fakkelhuls van lichtsteen
+item.signal_flares.amethyst_flare_shell=Amethistfakkelhuls
+item.signal_flares.iron_flare_shell=IJzeren fakkelhuls
+item.signal_flares.echo_flare_shell=Echo-fakkelhuls
+item.signal_flares.green_light_stick=Groene lichtstaaf
+item.signal_flares.pink_light_stick=Roze lichtstaaf
+item.signal_flares.cyan_light_stick=Turkooizen lichtstaaf
+item.signal_flares.stickly_light_stick=Kleverige groene lichtstaaf
+item.signal_flares.sticky_cyan_light_stick=Kleverige turkooizen lichtstaaf
+item.signal_flares.sticky_pink_light_stick=Kleverige roze lichtstaaf
+item.signal_flares.echo_light_stick=Echo-lichtstaaf
+item.signal_flares.flare_gun=Fakkelgeweer
+item.signal_flares.range_finder=Afstandsmeter
+
+## Bloktegels
+tile.signal_flares:light_stick_block.name=Lichtstavenblok
+
+## Entiteiten
+entity.signal_flares:light_stick_e.name=Lichtstaaf
+entity.signal_flares:pink_light_stick_e.name=Lichtstaaf
+entity.signal_flares:cyan_light_stick_e.name=Lichtstaaf
+entity.signal_flares:sticky_light_stick_e.name=Lichtstaaf
+entity.signal_flares:sticky_cyan_light_stick_e.name=Lichtstaaf
+entity.signal_flares:sticky_pink_light_stick_e.name=Lichtstaaf
+entity.signal_flares:echo_light_stick_e.name=Lichtstaaf
+entity.signal_flares:red_flare.name=Rode fakkel
+entity.signal_flares:green_flare.name=Groene fakkel
+entity.signal_flares:blue_flare.name=Blauwe fakkel
+entity.signal_flares:white_flare.name=Witte fakkel
+entity.signal_flares:yellow_flare.name=Gele fakkel
+entity.signal_flares:pink_flare.name=Roze fakkel
+entity.signal_flares:cyan_flare.name=Turkooizen fakkel
+entity.signal_flares:orange_flare.name=Oranje fakkel
+entity.signal_flares:black_flare.name=Zwarte fakkel
+entity.signal_flares:glowstone_flare.name=Lichtsteenfakkel
+entity.signal_flares:amethyst_flare.name=Amethistfakkel
+entity.signal_flares:iron_flare.name=IJzeren fakkel

@@ -1,0 +1,51 @@
+## Metadati del pacchetto
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Razzi segnalatori con fumo colorato - Porting per Bedrock. Mod originale di RollingDice26. Porting per Bedrock di Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Oggetti
+item.signal_flares.red_flare_shell=Guscio di razzo segnalatore rosso
+item.signal_flares.green_flare_shell=Guscio di razzo segnalatore verde
+item.signal_flares.blue_flare_shell=Guscio di razzo segnalatore blu
+item.signal_flares.white_flare_shell=Guscio di razzo segnalatore bianco
+item.signal_flares.yellow_flare_shell=Guscio di razzo segnalatore giallo
+item.signal_flares.pink_flare_shell=Guscio di razzo segnalatore rosa
+item.signal_flares.cyan_flare_shell=Guscio di razzo segnalatore ciano
+item.signal_flares.orange_flare_shell=Guscio di razzo segnalatore arancione
+item.signal_flares.black_flare_shell=Guscio di razzo segnalatore nero
+item.signal_flares.glowstone_flare_shell=Guscio di razzo segnalatore di pietraluminosa
+item.signal_flares.amethyst_flare_shell=Guscio di razzo segnalatore di ametista
+item.signal_flares.iron_flare_shell=Guscio di razzo segnalatore di ferro
+item.signal_flares.echo_flare_shell=Guscio di razzo segnalatore dell’eco
+item.signal_flares.green_light_stick=Bastoncino luminoso verde
+item.signal_flares.pink_light_stick=Bastoncino luminoso rosa
+item.signal_flares.cyan_light_stick=Bastoncino luminoso ciano
+item.signal_flares.stickly_light_stick=Bastoncino luminoso verde adesivo
+item.signal_flares.sticky_cyan_light_stick=Bastoncino luminoso ciano adesivo
+item.signal_flares.sticky_pink_light_stick=Bastoncino luminoso rosa adesivo
+item.signal_flares.echo_light_stick=Bastoncino luminoso dell’eco
+item.signal_flares.flare_gun=Pistola lanciarazzi
+item.signal_flares.range_finder=Telemetro
+
+## Blocchi
+tile.signal_flares:light_stick_block.name=Blocco di bastoncini luminosi
+
+## Entità
+entity.signal_flares:light_stick_e.name=Bastoncino luminoso
+entity.signal_flares:pink_light_stick_e.name=Bastoncino luminoso
+entity.signal_flares:cyan_light_stick_e.name=Bastoncino luminoso
+entity.signal_flares:sticky_light_stick_e.name=Bastoncino luminoso
+entity.signal_flares:sticky_cyan_light_stick_e.name=Bastoncino luminoso
+entity.signal_flares:sticky_pink_light_stick_e.name=Bastoncino luminoso
+entity.signal_flares:echo_light_stick_e.name=Bastoncino luminoso
+entity.signal_flares:red_flare.name=Razzo segnalatore rosso
+entity.signal_flares:green_flare.name=Razzo segnalatore verde
+entity.signal_flares:blue_flare.name=Razzo segnalatore blu
+entity.signal_flares:white_flare.name=Razzo segnalatore bianco
+entity.signal_flares:yellow_flare.name=Razzo segnalatore giallo
+entity.signal_flares:pink_flare.name=Razzo segnalatore rosa
+entity.signal_flares:cyan_flare.name=Razzo segnalatore ciano
+entity.signal_flares:orange_flare.name=Razzo segnalatore arancione
+entity.signal_flares:black_flare.name=Razzo segnalatore nero
+entity.signal_flares:glowstone_flare.name=Razzo segnalatore di pietraluminosa
+entity.signal_flares:amethyst_flare.name=Razzo segnalatore di ametista
+entity.signal_flares:iron_flare.name=Razzo segnalatore di ferro

@@ -1,0 +1,51 @@
+## Metadata balíčku
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Signální světlice s barevným kouřem - Port pro Bedrock. Původní mod od RollingDice26. Port pro Bedrock od Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Předměty
+item.signal_flares.red_flare_shell=Červený plášť signální světlice
+item.signal_flares.green_flare_shell=Zelený plášť signální světlice
+item.signal_flares.blue_flare_shell=Modrý plášť signální světlice
+item.signal_flares.white_flare_shell=Bílý plášť signální světlice
+item.signal_flares.yellow_flare_shell=Žlutý plášť signální světlice
+item.signal_flares.pink_flare_shell=Růžový plášť signální světlice
+item.signal_flares.cyan_flare_shell=Azurový plášť signální světlice
+item.signal_flares.orange_flare_shell=Oranžový plášť signální světlice
+item.signal_flares.black_flare_shell=Černý plášť signální světlice
+item.signal_flares.glowstone_flare_shell=Plášť signální světlice ze zářivého kamene
+item.signal_flares.amethyst_flare_shell=Ametystový plášť signální světlice
+item.signal_flares.iron_flare_shell=Železný plášť signální světlice
+item.signal_flares.echo_flare_shell=Plášť signální světlice z ozvěnového krystalu
+item.signal_flares.green_light_stick=Zelená svítící tyčinka
+item.signal_flares.pink_light_stick=Růžová svítící tyčinka
+item.signal_flares.cyan_light_stick=Azurová svítící tyčinka
+item.signal_flares.stickly_light_stick=Lepivá zelená svítící tyčinka
+item.signal_flares.sticky_cyan_light_stick=Lepivá azurová svítící tyčinka
+item.signal_flares.sticky_pink_light_stick=Lepivá růžová svítící tyčinka
+item.signal_flares.echo_light_stick=Ozvěnová svítící tyčinka
+item.signal_flares.flare_gun=Signální pistole
+item.signal_flares.range_finder=Dalekohled
+
+## Bloky
+tile.signal_flares:light_stick_block.name=Blok svítících tyčinek
+
+## Entity
+entity.signal_flares:light_stick_e.name=Svítící tyčinka
+entity.signal_flares:pink_light_stick_e.name=Svítící tyčinka
+entity.signal_flares:cyan_light_stick_e.name=Svítící tyčinka
+entity.signal_flares:sticky_light_stick_e.name=Svítící tyčinka
+entity.signal_flares:sticky_cyan_light_stick_e.name=Svítící tyčinka
+entity.signal_flares:sticky_pink_light_stick_e.name=Svítící tyčinka
+entity.signal_flares:echo_light_stick_e.name=Svítící tyčinka
+entity.signal_flares:red_flare.name=Červená signální světlice
+entity.signal_flares:green_flare.name=Zelená signální světlice
+entity.signal_flares:blue_flare.name=Modrá signální světlice
+entity.signal_flares:white_flare.name=Bílá signální světlice
+entity.signal_flares:yellow_flare.name=Žlutá signální světlice
+entity.signal_flares:pink_flare.name=Růžová signální světlice
+entity.signal_flares:cyan_flare.name=Azurová signální světlice
+entity.signal_flares:orange_flare.name=Oranžová signální světlice
+entity.signal_flares:black_flare.name=Černá signální světlice
+entity.signal_flares:glowstone_flare.name=Světlice ze zářivého kamene
+entity.signal_flares:amethyst_flare.name=Ametystová signální světlice
+entity.signal_flares:iron_flare.name=Železná signální světlice

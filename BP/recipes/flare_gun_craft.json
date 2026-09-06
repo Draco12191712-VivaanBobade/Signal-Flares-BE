@@ -1,0 +1,31 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "signal_flares:flare_gun_craft"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " aa",
+      "bc ",
+      "b  "
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:iron_nugget"
+      },
+      "b": {
+        "tag": "minecraft:planks"
+      },
+      "c": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "result": {
+      "item": "signal_flares:flare_gun",
+      "count": 1
+    }
+  }
+}

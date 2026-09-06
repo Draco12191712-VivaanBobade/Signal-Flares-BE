@@ -1,0 +1,31 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "signal_flares:green_flare_craft"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "  a",
+      " b ",
+      "c  "
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:green_dye"
+      },
+      "b": {
+        "item": "minecraft:cobblestone"
+      },
+      "c": {
+        "item": "minecraft:iron_nugget"
+      }
+    },
+    "result": {
+      "item": "signal_flares:green_flare_shell",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,51 @@
+## Metadatos del paquete
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Bengalas con humo de colores - Port de Bedrock. Mod original de RollingDice26. Port de Bedrock de Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Objetos
+item.signal_flares.red_flare_shell=Carcasa de bengala roja
+item.signal_flares.green_flare_shell=Carcasa de bengala verde
+item.signal_flares.blue_flare_shell=Carcasa de bengala azul
+item.signal_flares.white_flare_shell=Carcasa de bengala blanca
+item.signal_flares.yellow_flare_shell=Carcasa de bengala amarilla
+item.signal_flares.pink_flare_shell=Carcasa de bengala rosa
+item.signal_flares.cyan_flare_shell=Carcasa de bengala cian
+item.signal_flares.orange_flare_shell=Carcasa de bengala naranja
+item.signal_flares.black_flare_shell=Carcasa de bengala negra
+item.signal_flares.glowstone_flare_shell=Carcasa de bengala de piedra luminosa
+item.signal_flares.amethyst_flare_shell=Carcasa de bengala de amatista
+item.signal_flares.iron_flare_shell=Carcasa de bengala de hierro
+item.signal_flares.echo_flare_shell=Carcasa de bengala de eco
+item.signal_flares.green_light_stick=Barra luminosa verde
+item.signal_flares.pink_light_stick=Barra luminosa rosa
+item.signal_flares.cyan_light_stick=Barra luminosa cian
+item.signal_flares.stickly_light_stick=Barra luminosa verde pegajosa
+item.signal_flares.sticky_cyan_light_stick=Barra luminosa cian pegajosa
+item.signal_flares.sticky_pink_light_stick=Barra luminosa rosa pegajosa
+item.signal_flares.echo_light_stick=Barra luminosa de eco
+item.signal_flares.flare_gun=Pistola de bengalas
+item.signal_flares.range_finder=Telémetro
+
+## Bloques
+tile.signal_flares:light_stick_block.name=Bloque de barras luminosas
+
+## Entidades
+entity.signal_flares:light_stick_e.name=Barra luminosa
+entity.signal_flares:pink_light_stick_e.name=Barra luminosa
+entity.signal_flares:cyan_light_stick_e.name=Barra luminosa
+entity.signal_flares:sticky_light_stick_e.name=Barra luminosa
+entity.signal_flares:sticky_cyan_light_stick_e.name=Barra luminosa
+entity.signal_flares:sticky_pink_light_stick_e.name=Barra luminosa
+entity.signal_flares:echo_light_stick_e.name=Barra luminosa
+entity.signal_flares:red_flare.name=Bengala roja
+entity.signal_flares:green_flare.name=Bengala verde
+entity.signal_flares:blue_flare.name=Bengala azul
+entity.signal_flares:white_flare.name=Bengala blanca
+entity.signal_flares:yellow_flare.name=Bengala amarilla
+entity.signal_flares:pink_flare.name=Bengala rosa
+entity.signal_flares:cyan_flare.name=Bengala cian
+entity.signal_flares:orange_flare.name=Bengala naranja
+entity.signal_flares:black_flare.name=Bengala negra
+entity.signal_flares:glowstone_flare.name=Bengala de piedra luminosa
+entity.signal_flares:amethyst_flare.name=Bengala de amatista
+entity.signal_flares:iron_flare.name=Bengala de hierro

@@ -1,0 +1,51 @@
+## Pack Metadata
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Flares with coloured smoke - Bedrock port. Original Mod by RollingDice26. Bedrock Port by Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Items
+item.signal_flares.red_flare_shell=Red Flare Shell
+item.signal_flares.green_flare_shell=Green Flare Shell
+item.signal_flares.blue_flare_shell=Blue Flare Shell
+item.signal_flares.white_flare_shell=White Flare Shell
+item.signal_flares.yellow_flare_shell=Yellow Flare Shell
+item.signal_flares.pink_flare_shell=Pink Flare Shell
+item.signal_flares.cyan_flare_shell=Cyan Flare Shell
+item.signal_flares.orange_flare_shell=Orange Flare Shell
+item.signal_flares.black_flare_shell=Black Flare Shell
+item.signal_flares.glowstone_flare_shell=Glowstone Flare Shell
+item.signal_flares.amethyst_flare_shell=Amethyst Flare Shell
+item.signal_flares.iron_flare_shell=Iron Flare Shell
+item.signal_flares.echo_flare_shell=Echo Flare Shell
+item.signal_flares.green_light_stick=Green Light Stick
+item.signal_flares.pink_light_stick=Pink Light Stick
+item.signal_flares.cyan_light_stick=Cyan Light Stick
+item.signal_flares.stickly_light_stick=Sticky Green Light Stick
+item.signal_flares.sticky_cyan_light_stick=Sticky Cyan Light Stick
+item.signal_flares.sticky_pink_light_stick=Sticky Pink Light Stick
+item.signal_flares.echo_light_stick=Echo Light Stick
+item.signal_flares.flare_gun=Flare Gun
+item.signal_flares.range_finder=Range Finder
+
+## Block Tiles
+tile.signal_flares:light_stick_block.name=Light Stick Block
+
+## Entities
+entity.signal_flares:light_stick_e.name=Light Stick
+entity.signal_flares:pink_light_stick_e.name=Light Stick
+entity.signal_flares:cyan_light_stick_e.name=Light Stick
+entity.signal_flares:sticky_light_stick_e.name=Light Stick
+entity.signal_flares:sticky_cyan_light_stick_e.name=Light Stick
+entity.signal_flares:sticky_pink_light_stick_e.name=Light Stick
+entity.signal_flares:echo_light_stick_e.name=Light Stick
+entity.signal_flares:red_flare.name=Red Flare
+entity.signal_flares:green_flare.name=Green Flare
+entity.signal_flares:blue_flare.name=Blue Flare
+entity.signal_flares:white_flare.name=White Flare
+entity.signal_flares:yellow_flare.name=Yellow Flare
+entity.signal_flares:pink_flare.name=Pink Flare
+entity.signal_flares:cyan_flare.name=Cyan Flare
+entity.signal_flares:orange_flare.name=Orange Flare
+entity.signal_flares:black_flare.name=Black Flare
+entity.signal_flares:glowstone_flare.name=Glowstone Flare
+entity.signal_flares:amethyst_flare.name=Amethyst Flare
+entity.signal_flares:iron_flare.name=Iron Flare

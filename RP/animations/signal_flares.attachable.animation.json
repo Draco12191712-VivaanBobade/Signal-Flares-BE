@@ -1,5 +1,5 @@
 {
-  "format_version": "1.8.0",
+  "format_version": "1.26.0",
   "animations": {
     "animation.signal_flares.flare_gun.first_person": {
       "loop": true,

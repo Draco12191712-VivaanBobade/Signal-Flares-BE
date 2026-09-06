@@ -1,0 +1,51 @@
+## Paketmetadata
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Nödraketer med färgad rök - Bedrock-port. Ursprunglig mod av RollingDice26. Bedrock-port av Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Föremål
+item.signal_flares.red_flare_shell=Rött nödraketshölje
+item.signal_flares.green_flare_shell=Grönt nödraketshölje
+item.signal_flares.blue_flare_shell=Blått nödraketshölje
+item.signal_flares.white_flare_shell=Vitt nödraketshölje
+item.signal_flares.yellow_flare_shell=Gult nödraketshölje
+item.signal_flares.pink_flare_shell=Rosa nödraketshölje
+item.signal_flares.cyan_flare_shell=Cyanfärgat nödraketshölje
+item.signal_flares.orange_flare_shell=Orange nödraketshölje
+item.signal_flares.black_flare_shell=Svart nödraketshölje
+item.signal_flares.glowstone_flare_shell=Nödraketshölje av glödsten
+item.signal_flares.amethyst_flare_shell=Nödraketshölje av ametist
+item.signal_flares.iron_flare_shell=Nödraketshölje av järn
+item.signal_flares.echo_flare_shell=Nödraketshölje av ekoskärva
+item.signal_flares.green_light_stick=Grön ljusstav
+item.signal_flares.pink_light_stick=Rosa ljusstav
+item.signal_flares.cyan_light_stick=Cyan ljusstav
+item.signal_flares.stickly_light_stick=Klistrig grön ljusstav
+item.signal_flares.sticky_cyan_light_stick=Klistrig cyan ljusstav
+item.signal_flares.sticky_pink_light_stick=Klistrig rosa ljusstav
+item.signal_flares.echo_light_stick=Ekolljusstav
+item.signal_flares.flare_gun=Nödraketspistol
+item.signal_flares.range_finder=Avståndsmätare
+
+## Block
+tile.signal_flares:light_stick_block.name=Ljusstavsblock
+
+## Entiteter
+entity.signal_flares:light_stick_e.name=Ljusstav
+entity.signal_flares:pink_light_stick_e.name=Ljusstav
+entity.signal_flares:cyan_light_stick_e.name=Ljusstav
+entity.signal_flares:sticky_light_stick_e.name=Ljusstav
+entity.signal_flares:sticky_cyan_light_stick_e.name=Ljusstav
+entity.signal_flares:sticky_pink_light_stick_e.name=Ljusstav
+entity.signal_flares:echo_light_stick_e.name=Ljusstav
+entity.signal_flares:red_flare.name=Röd nödraket
+entity.signal_flares:green_flare.name=Grön nödraket
+entity.signal_flares:blue_flare.name=Blå nödraket
+entity.signal_flares:white_flare.name=Vit nödraket
+entity.signal_flares:yellow_flare.name=Gul nödraket
+entity.signal_flares:pink_flare.name=Rosa nödraket
+entity.signal_flares:cyan_flare.name=Cyan nödraket
+entity.signal_flares:orange_flare.name=Orange nödraket
+entity.signal_flares:black_flare.name=Svart nödraket
+entity.signal_flares:glowstone_flare.name=Nödraket av glödsten
+entity.signal_flares:amethyst_flare.name=Nödraket av ametist
+entity.signal_flares:iron_flare.name=Nödraket av järn

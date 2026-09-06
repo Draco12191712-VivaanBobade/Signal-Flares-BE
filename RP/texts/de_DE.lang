@@ -1,0 +1,51 @@
+## Paket-Metadaten
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Leuchtsignale mit farbigem Rauch – Bedrock-Portierung. Original-Mod von RollingDice26. Bedrock-Portierung von Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Gegenstände
+item.signal_flares.red_flare_shell=Rote Leuchtsignalhülle
+item.signal_flares.green_flare_shell=Grüne Leuchtsignalhülle
+item.signal_flares.blue_flare_shell=Blaue Leuchtsignalhülle
+item.signal_flares.white_flare_shell=Weiße Leuchtsignalhülle
+item.signal_flares.yellow_flare_shell=Gelbe Leuchtsignalhülle
+item.signal_flares.pink_flare_shell=Rosa Leuchtsignalhülle
+item.signal_flares.cyan_flare_shell=Türkise Leuchtsignalhülle
+item.signal_flares.orange_flare_shell=Orange Leuchtsignalhülle
+item.signal_flares.black_flare_shell=Schwarze Leuchtsignalhülle
+item.signal_flares.glowstone_flare_shell=Leuchtsignalhülle aus Leuchtstein
+item.signal_flares.amethyst_flare_shell=Amethyst-Leuchtsignalhülle
+item.signal_flares.iron_flare_shell=Eiserne Leuchtsignalhülle
+item.signal_flares.echo_flare_shell=Echo-Leuchtsignalhülle
+item.signal_flares.green_light_stick=Grüner Leuchtstab
+item.signal_flares.pink_light_stick=Rosa Leuchtstab
+item.signal_flares.cyan_light_stick=Türkiser Leuchtstab
+item.signal_flares.stickly_light_stick=Klebriger grüner Leuchtstab
+item.signal_flares.sticky_cyan_light_stick=Klebriger türkiser Leuchtstab
+item.signal_flares.sticky_pink_light_stick=Klebriger rosa Leuchtstab
+item.signal_flares.echo_light_stick=Echo-Leuchtstab
+item.signal_flares.flare_gun=Signalpistole
+item.signal_flares.range_finder=Entfernungsmesser
+
+## Block-Kacheln
+tile.signal_flares:light_stick_block.name=Leuchtstabblock
+
+## Entitäten
+entity.signal_flares:light_stick_e.name=Leuchtstab
+entity.signal_flares:pink_light_stick_e.name=Leuchtstab
+entity.signal_flares:cyan_light_stick_e.name=Leuchtstab
+entity.signal_flares:sticky_light_stick_e.name=Leuchtstab
+entity.signal_flares:sticky_cyan_light_stick_e.name=Leuchtstab
+entity.signal_flares:sticky_pink_light_stick_e.name=Leuchtstab
+entity.signal_flares:echo_light_stick_e.name=Leuchtstab
+entity.signal_flares:red_flare.name=Rotes Leuchtsignal
+entity.signal_flares:green_flare.name=Grünes Leuchtsignal
+entity.signal_flares:blue_flare.name=Blaues Leuchtsignal
+entity.signal_flares:white_flare.name=Weißes Leuchtsignal
+entity.signal_flares:yellow_flare.name=Gelbes Leuchtsignal
+entity.signal_flares:pink_flare.name=Rosa Leuchtsignal
+entity.signal_flares:cyan_flare.name=Türkises Leuchtsignal
+entity.signal_flares:orange_flare.name=Oranges Leuchtsignal
+entity.signal_flares:black_flare.name=Schwarzes Leuchtsignal
+entity.signal_flares:glowstone_flare.name=Leuchtsignal aus Leuchtstein
+entity.signal_flares:amethyst_flare.name=Amethyst-Leuchtsignal
+entity.signal_flares:iron_flare.name=Eisernes Leuchtsignal

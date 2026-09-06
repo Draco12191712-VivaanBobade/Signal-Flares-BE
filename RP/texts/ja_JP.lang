@@ -1,0 +1,51 @@
+## パックのメタデータ
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares：色付きの煙を出す信号フレア - Bedrock版移植。元のMod：RollingDice26。Bedrock版移植：Draco12191712（Vivaan Bobade）v0.0.1-alpha.1
+
+## アイテム
+item.signal_flares.red_flare_shell=赤色の信号フレアシェル
+item.signal_flares.green_flare_shell=緑色の信号フレアシェル
+item.signal_flares.blue_flare_shell=青色の信号フレアシェル
+item.signal_flares.white_flare_shell=白色の信号フレアシェル
+item.signal_flares.yellow_flare_shell=黄色の信号フレアシェル
+item.signal_flares.pink_flare_shell=ピンク色の信号フレアシェル
+item.signal_flares.cyan_flare_shell=シアン色の信号フレアシェル
+item.signal_flares.orange_flare_shell=オレンジ色の信号フレアシェル
+item.signal_flares.black_flare_shell=黒色の信号フレアシェル
+item.signal_flares.glowstone_flare_shell=グロウストーンの信号フレアシェル
+item.signal_flares.amethyst_flare_shell=アメジストの信号フレアシェル
+item.signal_flares.iron_flare_shell=鉄の信号フレアシェル
+item.signal_flares.echo_flare_shell=エコーの信号フレアシェル
+item.signal_flares.green_light_stick=緑色のライトスティック
+item.signal_flares.pink_light_stick=ピンク色のライトスティック
+item.signal_flares.cyan_light_stick=シアン色のライトスティック
+item.signal_flares.stickly_light_stick=粘着性の緑色のライトスティック
+item.signal_flares.sticky_cyan_light_stick=粘着性のシアン色のライトスティック
+item.signal_flares.sticky_pink_light_stick=粘着性のピンク色のライトスティック
+item.signal_flares.echo_light_stick=エコーのライトスティック
+item.signal_flares.flare_gun=フレアガン
+item.signal_flares.range_finder=距離計
+
+## ブロック
+tile.signal_flares:light_stick_block.name=ライトスティックブロック
+
+## エンティティ
+entity.signal_flares:light_stick_e.name=ライトスティック
+entity.signal_flares:pink_light_stick_e.name=ライトスティック
+entity.signal_flares:cyan_light_stick_e.name=ライトスティック
+entity.signal_flares:sticky_light_stick_e.name=ライトスティック
+entity.signal_flares:sticky_cyan_light_stick_e.name=ライトスティック
+entity.signal_flares:sticky_pink_light_stick_e.name=ライトスティック
+entity.signal_flares:echo_light_stick_e.name=ライトスティック
+entity.signal_flares:red_flare.name=赤色の信号フレア
+entity.signal_flares:green_flare.name=緑色の信号フレア
+entity.signal_flares:blue_flare.name=青色の信号フレア
+entity.signal_flares:white_flare.name=白色の信号フレア
+entity.signal_flares:yellow_flare.name=黄色の信号フレア
+entity.signal_flares:pink_flare.name=ピンク色の信号フレア
+entity.signal_flares:cyan_flare.name=シアン色の信号フレア
+entity.signal_flares:orange_flare.name=オレンジ色の信号フレア
+entity.signal_flares:black_flare.name=黒色の信号フレア
+entity.signal_flares:glowstone_flare.name=グロウストーンの信号フレア
+entity.signal_flares:amethyst_flare.name=アメジストの信号フレア
+entity.signal_flares:iron_flare.name=鉄の信号フレア

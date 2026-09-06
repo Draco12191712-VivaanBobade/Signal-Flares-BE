@@ -1,0 +1,51 @@
+## 包元数据
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares：带有彩色烟雾的信号弹 - Bedrock 移植版。原始 Mod：RollingDice26。Bedrock 移植：Draco12191712（Vivaan Bobade）v0.0.1-alpha.1
+
+## 物品
+item.signal_flares.red_flare_shell=红色信号弹壳
+item.signal_flares.green_flare_shell=绿色信号弹壳
+item.signal_flares.blue_flare_shell=蓝色信号弹壳
+item.signal_flares.white_flare_shell=白色信号弹壳
+item.signal_flares.yellow_flare_shell=黄色信号弹壳
+item.signal_flares.pink_flare_shell=粉色信号弹壳
+item.signal_flares.cyan_flare_shell=青色信号弹壳
+item.signal_flares.orange_flare_shell=橙色信号弹壳
+item.signal_flares.black_flare_shell=黑色信号弹壳
+item.signal_flares.glowstone_flare_shell=荧石信号弹壳
+item.signal_flares.amethyst_flare_shell=紫水晶信号弹壳
+item.signal_flares.iron_flare_shell=铁信号弹壳
+item.signal_flares.echo_flare_shell=回响信号弹壳
+item.signal_flares.green_light_stick=绿色荧光棒
+item.signal_flares.pink_light_stick=粉色荧光棒
+item.signal_flares.cyan_light_stick=青色荧光棒
+item.signal_flares.stickly_light_stick=黏性绿色荧光棒
+item.signal_flares.sticky_cyan_light_stick=黏性青色荧光棒
+item.signal_flares.sticky_pink_light_stick=黏性粉色荧光棒
+item.signal_flares.echo_light_stick=回响荧光棒
+item.signal_flares.flare_gun=信号枪
+item.signal_flares.range_finder=测距仪
+
+## 方块
+tile.signal_flares:light_stick_block.name=荧光棒方块
+
+## 实体
+entity.signal_flares:light_stick_e.name=荧光棒
+entity.signal_flares:pink_light_stick_e.name=荧光棒
+entity.signal_flares:cyan_light_stick_e.name=荧光棒
+entity.signal_flares:sticky_light_stick_e.name=荧光棒
+entity.signal_flares:sticky_cyan_light_stick_e.name=荧光棒
+entity.signal_flares:sticky_pink_light_stick_e.name=荧光棒
+entity.signal_flares:echo_light_stick_e.name=荧光棒
+entity.signal_flares:red_flare.name=红色信号弹
+entity.signal_flares:green_flare.name=绿色信号弹
+entity.signal_flares:blue_flare.name=蓝色信号弹
+entity.signal_flares:white_flare.name=白色信号弹
+entity.signal_flares:yellow_flare.name=黄色信号弹
+entity.signal_flares:pink_flare.name=粉色信号弹
+entity.signal_flares:cyan_flare.name=青色信号弹
+entity.signal_flares:orange_flare.name=橙色信号弹
+entity.signal_flares:black_flare.name=黑色信号弹
+entity.signal_flares:glowstone_flare.name=荧石信号弹
+entity.signal_flares:amethyst_flare.name=紫水晶信号弹
+entity.signal_flares:iron_flare.name=铁信号弹

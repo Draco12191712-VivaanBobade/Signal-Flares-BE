@@ -1,0 +1,51 @@
+## Métadonnées du pack
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares : Fusées éclairantes avec fumée colorée - Portage Bedrock. Mod original par RollingDice26. Portage Bedrock par Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Objets
+item.signal_flares.red_flare_shell=Coque de fusée éclairante rouge
+item.signal_flares.green_flare_shell=Coque de fusée éclairante verte
+item.signal_flares.blue_flare_shell=Coque de fusée éclairante bleue
+item.signal_flares.white_flare_shell=Coque de fusée éclairante blanche
+item.signal_flares.yellow_flare_shell=Coque de fusée éclairante jaune
+item.signal_flares.pink_flare_shell=Coque de fusée éclairante rose
+item.signal_flares.cyan_flare_shell=Coque de fusée éclairante cyan
+item.signal_flares.orange_flare_shell=Coque de fusée éclairante orange
+item.signal_flares.black_flare_shell=Coque de fusée éclairante noire
+item.signal_flares.glowstone_flare_shell=Coque de fusée éclairante en pierre lumineuse
+item.signal_flares.amethyst_flare_shell=Coque de fusée éclairante en améthyste
+item.signal_flares.iron_flare_shell=Coque de fusée éclairante en fer
+item.signal_flares.echo_flare_shell=Coque de fusée éclairante d’écho
+item.signal_flares.green_light_stick=Bâton lumineux vert
+item.signal_flares.pink_light_stick=Bâton lumineux rose
+item.signal_flares.cyan_light_stick=Bâton lumineux cyan
+item.signal_flares.stickly_light_stick=Bâton lumineux vert adhésif
+item.signal_flares.sticky_cyan_light_stick=Bâton lumineux cyan adhésif
+item.signal_flares.sticky_pink_light_stick=Bâton lumineux rose adhésif
+item.signal_flares.echo_light_stick=Bâton lumineux d’écho
+item.signal_flares.flare_gun=Pistolet lance-fusées
+item.signal_flares.range_finder=Télémètre
+
+## Blocs
+tile.signal_flares:light_stick_block.name=Bloc de bâtons lumineux
+
+## Entités
+entity.signal_flares:light_stick_e.name=Bâton lumineux
+entity.signal_flares:pink_light_stick_e.name=Bâton lumineux
+entity.signal_flares:cyan_light_stick_e.name=Bâton lumineux
+entity.signal_flares:sticky_light_stick_e.name=Bâton lumineux
+entity.signal_flares:sticky_cyan_light_stick_e.name=Bâton lumineux
+entity.signal_flares:sticky_pink_light_stick_e.name=Bâton lumineux
+entity.signal_flares:echo_light_stick_e.name=Bâton lumineux
+entity.signal_flares:red_flare.name=Fusée éclairante rouge
+entity.signal_flares:green_flare.name=Fusée éclairante verte
+entity.signal_flares:blue_flare.name=Fusée éclairante bleue
+entity.signal_flares:white_flare.name=Fusée éclairante blanche
+entity.signal_flares:yellow_flare.name=Fusée éclairante jaune
+entity.signal_flares:pink_flare.name=Fusée éclairante rose
+entity.signal_flares:cyan_flare.name=Fusée éclairante cyan
+entity.signal_flares:orange_flare.name=Fusée éclairante orange
+entity.signal_flares:black_flare.name=Fusée éclairante noire
+entity.signal_flares:glowstone_flare.name=Fusée éclairante en pierre lumineuse
+entity.signal_flares:amethyst_flare.name=Fusée éclairante en améthyste
+entity.signal_flares:iron_flare.name=Fusée éclairante en fer

@@ -1,0 +1,51 @@
+## Pakkemetadata
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Signalblus med farvet røg - Bedrock-port. Original mod af RollingDice26. Bedrock-port af Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Genstande
+item.signal_flares.red_flare_shell=Rød signalblushylster
+item.signal_flares.green_flare_shell=Grøn signalblushylster
+item.signal_flares.blue_flare_shell=Blåt signalblushylster
+item.signal_flares.white_flare_shell=Hvidt signalblushylster
+item.signal_flares.yellow_flare_shell=Gult signalblushylster
+item.signal_flares.pink_flare_shell=Lyserødt signalblushylster
+item.signal_flares.cyan_flare_shell=Cyan signalblushylster
+item.signal_flares.orange_flare_shell=Orange signalblushylster
+item.signal_flares.black_flare_shell=Sort signalblushylster
+item.signal_flares.glowstone_flare_shell=Glowstone-signalblushylster
+item.signal_flares.amethyst_flare_shell=Amethyst-signalblushylster
+item.signal_flares.iron_flare_shell=Jernsignalblushylster
+item.signal_flares.echo_flare_shell=Ekkosignalblushylster
+item.signal_flares.green_light_stick=Grøn lysstav
+item.signal_flares.pink_light_stick=Lyserød lysstav
+item.signal_flares.cyan_light_stick=Cyan lysstav
+item.signal_flares.stickly_light_stick=Klistret grøn lysstav
+item.signal_flares.sticky_cyan_light_stick=Klistret cyan lysstav
+item.signal_flares.sticky_pink_light_stick=Klistret lyserød lysstav
+item.signal_flares.echo_light_stick=Ekko-lysstav
+item.signal_flares.flare_gun=Signalpistol
+item.signal_flares.range_finder=Afstandsmåler
+
+## Blokke
+tile.signal_flares:light_stick_block.name=Lysstavsblok
+
+## Entiteter
+entity.signal_flares:light_stick_e.name=Lysstav
+entity.signal_flares:pink_light_stick_e.name=Lysstav
+entity.signal_flares:cyan_light_stick_e.name=Lysstav
+entity.signal_flares:sticky_light_stick_e.name=Lysstav
+entity.signal_flares:sticky_cyan_light_stick_e.name=Lysstav
+entity.signal_flares:sticky_pink_light_stick_e.name=Lysstav
+entity.signal_flares:echo_light_stick_e.name=Lysstav
+entity.signal_flares:red_flare.name=Rødt signalblus
+entity.signal_flares:green_flare.name=Grønt signalblus
+entity.signal_flares:blue_flare.name=Blåt signalblus
+entity.signal_flares:white_flare.name=Hvidt signalblus
+entity.signal_flares:yellow_flare.name=Gult signalblus
+entity.signal_flares:pink_flare.name=Lyserødt signalblus
+entity.signal_flares:cyan_flare.name=Cyan signalblus
+entity.signal_flares:orange_flare.name=Orange signalblus
+entity.signal_flares:black_flare.name=Sort signalblus
+entity.signal_flares:glowstone_flare.name=Glowstone-signalblus
+entity.signal_flares:amethyst_flare.name=Amethyst-signalblus
+entity.signal_flares:iron_flare.name=Jernsignalblus

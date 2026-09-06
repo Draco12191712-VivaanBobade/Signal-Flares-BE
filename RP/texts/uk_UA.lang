@@ -1,0 +1,51 @@
+## Метадані пакета
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Сигнальні ракети з кольоровим димом - Порт для Bedrock. Оригінальний мод від RollingDice26. Порт для Bedrock від Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Предмети
+item.signal_flares.red_flare_shell=Червоний корпус сигнальної ракети
+item.signal_flares.green_flare_shell=Зелений корпус сигнальної ракети
+item.signal_flares.blue_flare_shell=Синій корпус сигнальної ракети
+item.signal_flares.white_flare_shell=Білий корпус сигнальної ракети
+item.signal_flares.yellow_flare_shell=Жовтий корпус сигнальної ракети
+item.signal_flares.pink_flare_shell=Рожевий корпус сигнальної ракети
+item.signal_flares.cyan_flare_shell=Блакитний корпус сигнальної ракети
+item.signal_flares.orange_flare_shell=Помаранчевий корпус сигнальної ракети
+item.signal_flares.black_flare_shell=Чорний корпус сигнальної ракети
+item.signal_flares.glowstone_flare_shell=Корпус сигнальної ракети зі світлокаменю
+item.signal_flares.amethyst_flare_shell=Аметистовий корпус сигнальної ракети
+item.signal_flares.iron_flare_shell=Залізний корпус сигнальної ракети
+item.signal_flares.echo_flare_shell=Корпус сигнальної ракети з відлуню
+item.signal_flares.green_light_stick=Зелена світлова паличка
+item.signal_flares.pink_light_stick=Рожева світлова паличка
+item.signal_flares.cyan_light_stick=Блакитна світлова паличка
+item.signal_flares.stickly_light_stick=Липка зелена світлова паличка
+item.signal_flares.sticky_cyan_light_stick=Липка блакитна світлова паличка
+item.signal_flares.sticky_pink_light_stick=Липка рожева світлова паличка
+item.signal_flares.echo_light_stick=Світлова паличка відлуння
+item.signal_flares.flare_gun=Сигнальний пістолет
+item.signal_flares.range_finder=Далекомір
+
+## Блоки
+tile.signal_flares:light_stick_block.name=Блок світлових паличок
+
+## Сутності
+entity.signal_flares:light_stick_e.name=Світлова паличка
+entity.signal_flares:pink_light_stick_e.name=Світлова паличка
+entity.signal_flares:cyan_light_stick_e.name=Світлова паличка
+entity.signal_flares:sticky_light_stick_e.name=Світлова паличка
+entity.signal_flares:sticky_cyan_light_stick_e.name=Світлова паличка
+entity.signal_flares:sticky_pink_light_stick_e.name=Світлова паличка
+entity.signal_flares:echo_light_stick_e.name=Світлова паличка
+entity.signal_flares:red_flare.name=Червона сигнальна ракета
+entity.signal_flares:green_flare.name=Зелена сигнальна ракета
+entity.signal_flares:blue_flare.name=Синя сигнальна ракета
+entity.signal_flares:white_flare.name=Біла сигнальна ракета
+entity.signal_flares:yellow_flare.name=Жовта сигнальна ракета
+entity.signal_flares:pink_flare.name=Рожева сигнальна ракета
+entity.signal_flares:cyan_flare.name=Блакитна сигнальна ракета
+entity.signal_flares:orange_flare.name=Помаранчева сигнальна ракета
+entity.signal_flares:black_flare.name=Чорна сигнальна ракета
+entity.signal_flares:glowstone_flare.name=Сигнальна ракета зі світлокаменю
+entity.signal_flares:amethyst_flare.name=Аметистова сигнальна ракета
+entity.signal_flares:iron_flare.name=Залізна сигнальна ракета

@@ -1,0 +1,51 @@
+## 팩 메타데이터
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: 색깔 있는 연기를 내뿜는 신호탄 - Bedrock 포팅. 원본 모드 제작자: RollingDice26. Bedrock 포팅 제작자: Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## 아이템
+item.signal_flares.red_flare_shell=빨간색 신호탄 탄피
+item.signal_flares.green_flare_shell=초록색 신호탄 탄피
+item.signal_flares.blue_flare_shell=파란색 신호탄 탄피
+item.signal_flares.white_flare_shell=흰색 신호탄 탄피
+item.signal_flares.yellow_flare_shell=노란색 신호탄 탄피
+item.signal_flares.pink_flare_shell=분홍색 신호탄 탄피
+item.signal_flares.cyan_flare_shell=청록색 신호탄 탄피
+item.signal_flares.orange_flare_shell=주황색 신호탄 탄피
+item.signal_flares.black_flare_shell=검은색 신호탄 탄피
+item.signal_flares.glowstone_flare_shell=발광석 신호탄 탄피
+item.signal_flares.amethyst_flare_shell=자수정 신호탄 탄피
+item.signal_flares.iron_flare_shell=철 신호탄 탄피
+item.signal_flares.echo_flare_shell=메아리 신호탄 탄피
+item.signal_flares.green_light_stick=초록색 라이트 스틱
+item.signal_flares.pink_light_stick=분홍색 라이트 스틱
+item.signal_flares.cyan_light_stick=청록색 라이트 스틱
+item.signal_flares.stickly_light_stick=끈적한 초록색 라이트 스틱
+item.signal_flares.sticky_cyan_light_stick=끈적한 청록색 라이트 스틱
+item.signal_flares.sticky_pink_light_stick=끈적한 분홍색 라이트 스틱
+item.signal_flares.echo_light_stick=메아리 라이트 스틱
+item.signal_flares.flare_gun=신호탄 발사기
+item.signal_flares.range_finder=거리 측정기
+
+## 블록 타일
+tile.signal_flares:light_stick_block.name=라이트 스틱 블록
+
+## 엔티티
+entity.signal_flares:light_stick_e.name=라이트 스틱
+entity.signal_flares:pink_light_stick_e.name=라이트 스틱
+entity.signal_flares:cyan_light_stick_e.name=라이트 스틱
+entity.signal_flares:sticky_light_stick_e.name=라이트 스틱
+entity.signal_flares:sticky_cyan_light_stick_e.name=라이트 스틱
+entity.signal_flares:sticky_pink_light_stick_e.name=라이트 스틱
+entity.signal_flares:echo_light_stick_e.name=라이트 스틱
+entity.signal_flares:red_flare.name=빨간색 신호탄
+entity.signal_flares:green_flare.name=초록색 신호탄
+entity.signal_flares:blue_flare.name=파란색 신호탄
+entity.signal_flares:white_flare.name=흰색 신호탄
+entity.signal_flares:yellow_flare.name=노란색 신호탄
+entity.signal_flares:pink_flare.name=분홍색 신호탄
+entity.signal_flares:cyan_flare.name=청록색 신호탄
+entity.signal_flares:orange_flare.name=주황색 신호탄
+entity.signal_flares:black_flare.name=검은색 신호탄
+entity.signal_flares:glowstone_flare.name=발광석 신호탄
+entity.signal_flares:amethyst_flare.name=자수정 신호탄
+entity.signal_flares:iron_flare.name=철 신호탄

@@ -1,5 +1,5 @@
 {
-  "format_version": "1.10.0",
+  "format_version": "1.26.0",
   "animation_controllers": {
     "controller.animation.signal_flares.flare_gun": {
       "initial_state": "default",

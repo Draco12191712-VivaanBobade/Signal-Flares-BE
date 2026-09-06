@@ -1,0 +1,51 @@
+## Metadane pakietu
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Flary z kolorowym dymem - Port na Bedrock. Oryginalny mod autorstwa RollingDice26. Port na Bedrock autorstwa Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Przedmioty
+item.signal_flares.red_flare_shell=Czerwona obudowa flary
+item.signal_flares.green_flare_shell=Zielona obudowa flary
+item.signal_flares.blue_flare_shell=Niebieska obudowa flary
+item.signal_flares.white_flare_shell=Biała obudowa flary
+item.signal_flares.yellow_flare_shell=Żółta obudowa flary
+item.signal_flares.pink_flare_shell=Różowa obudowa flary
+item.signal_flares.cyan_flare_shell=Turkusowa obudowa flary
+item.signal_flares.orange_flare_shell=Pomarańczowa obudowa flary
+item.signal_flares.black_flare_shell=Czarna obudowa flary
+item.signal_flares.glowstone_flare_shell=Obudowa flary z jasnogłazu
+item.signal_flares.amethyst_flare_shell=Obudowa flary z ametystu
+item.signal_flares.iron_flare_shell=Żelazna obudowa flary
+item.signal_flares.echo_flare_shell=Obudowa flary z echa
+item.signal_flares.green_light_stick=Zielony pałeczkowy znacznik świetlny
+item.signal_flares.pink_light_stick=Różowy pałeczkowy znacznik świetlny
+item.signal_flares.cyan_light_stick=Turkusowy pałeczkowy znacznik świetlny
+item.signal_flares.stickly_light_stick=Przyklejany zielony znacznik świetlny
+item.signal_flares.sticky_cyan_light_stick=Przyklejany turkusowy znacznik świetlny
+item.signal_flares.sticky_pink_light_stick=Przyklejany różowy znacznik świetlny
+item.signal_flares.echo_light_stick=Pałeczkowy znacznik świetlny echa
+item.signal_flares.flare_gun=Pistolet sygnałowy
+item.signal_flares.range_finder=Dalmierz
+
+## Bloki
+tile.signal_flares:light_stick_block.name=Blok znaczników świetlnych
+
+## Encje
+entity.signal_flares:light_stick_e.name=Znacznik świetlny
+entity.signal_flares:pink_light_stick_e.name=Znacznik świetlny
+entity.signal_flares:cyan_light_stick_e.name=Znacznik świetlny
+entity.signal_flares:sticky_light_stick_e.name=Znacznik świetlny
+entity.signal_flares:sticky_cyan_light_stick_e.name=Znacznik świetlny
+entity.signal_flares:sticky_pink_light_stick_e.name=Znacznik świetlny
+entity.signal_flares:echo_light_stick_e.name=Znacznik świetlny
+entity.signal_flares:red_flare.name=Czerwona flara
+entity.signal_flares:green_flare.name=Zielona flara
+entity.signal_flares:blue_flare.name=Niebieska flara
+entity.signal_flares:white_flare.name=Biała flara
+entity.signal_flares:yellow_flare.name=Żółta flara
+entity.signal_flares:pink_flare.name=Różowa flara
+entity.signal_flares:cyan_flare.name=Turkusowa flara
+entity.signal_flares:orange_flare.name=Pomarańczowa flara
+entity.signal_flares:black_flare.name=Czarna flara
+entity.signal_flares:glowstone_flare.name=Flara z jasnogłazu
+entity.signal_flares:amethyst_flare.name=Flara z ametystu
+entity.signal_flares:iron_flare.name=Żelazna flara

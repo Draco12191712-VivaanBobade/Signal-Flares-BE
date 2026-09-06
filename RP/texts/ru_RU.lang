@@ -1,0 +1,51 @@
+## Метаданные пакета
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: сигнальные ракеты с цветным дымом — порт на Bedrock. Оригинальный мод от RollingDice26. Порт на Bedrock от Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Предметы
+item.signal_flares.red_flare_shell=Корпус красной сигнальной ракеты
+item.signal_flares.green_flare_shell=Корпус зелёной сигнальной ракеты
+item.signal_flares.blue_flare_shell=Корпус синей сигнальной ракеты
+item.signal_flares.white_flare_shell=Корпус белой сигнальной ракеты
+item.signal_flares.yellow_flare_shell=Корпус жёлтой сигнальной ракеты
+item.signal_flares.pink_flare_shell=Корпус розовой сигнальной ракеты
+item.signal_flares.cyan_flare_shell=Корпус голубой сигнальной ракеты
+item.signal_flares.orange_flare_shell=Корпус оранжевой сигнальной ракеты
+item.signal_flares.black_flare_shell=Корпус чёрной сигнальной ракеты
+item.signal_flares.glowstone_flare_shell=Корпус сигнальной ракеты из светокамня
+item.signal_flares.amethyst_flare_shell=Корпус сигнальной ракеты из аметиста
+item.signal_flares.iron_flare_shell=Корпус сигнальной ракеты из железа
+item.signal_flares.echo_flare_shell=Корпус сигнальной ракеты эха
+item.signal_flares.green_light_stick=Зелёная светящаяся палочка
+item.signal_flares.pink_light_stick=Розовая светящаяся палочка
+item.signal_flares.cyan_light_stick=Бирюзовая светящаяся палочка
+item.signal_flares.stickly_light_stick=Липкая зелёная светящаяся палочка
+item.signal_flares.sticky_cyan_light_stick=Липкая бирюзовая светящаяся палочка
+item.signal_flares.sticky_pink_light_stick=Липкая розовая светящаяся палочка
+item.signal_flares.echo_light_stick=Светящаяся палочка эха
+item.signal_flares.flare_gun=Сигнальный пистолет
+item.signal_flares.range_finder=Дальномер
+
+## Блоки
+tile.signal_flares:light_stick_block.name=Блок светящихся палочек
+
+## Сущности
+entity.signal_flares:light_stick_e.name=Светящаяся палочка
+entity.signal_flares:pink_light_stick_e.name=Светящаяся палочка
+entity.signal_flares:cyan_light_stick_e.name=Светящаяся палочка
+entity.signal_flares:sticky_light_stick_e.name=Светящаяся палочка
+entity.signal_flares:sticky_cyan_light_stick_e.name=Светящаяся палочка
+entity.signal_flares:sticky_pink_light_stick_e.name=Светящаяся палочка
+entity.signal_flares:echo_light_stick_e.name=Светящаяся палочка
+entity.signal_flares:red_flare.name=Красная сигнальная ракета
+entity.signal_flares:green_flare.name=Зелёная сигнальная ракета
+entity.signal_flares:blue_flare.name=Синяя сигнальная ракета
+entity.signal_flares:white_flare.name=Белая сигнальная ракета
+entity.signal_flares:yellow_flare.name=Жёлтая сигнальная ракета
+entity.signal_flares:pink_flare.name=Розовая сигнальная ракета
+entity.signal_flares:cyan_flare.name=Бирюзовая сигнальная ракета
+entity.signal_flares:orange_flare.name=Оранжевая сигнальная ракета
+entity.signal_flares:black_flare.name=Чёрная сигнальная ракета
+entity.signal_flares:glowstone_flare.name=Сигнальная ракета из светокамня
+entity.signal_flares:amethyst_flare.name=Сигнальная ракета из аметиста
+entity.signal_flares:iron_flare.name=Железная сигнальная ракета

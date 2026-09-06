@@ -1,0 +1,51 @@
+## Paket Meta Verileri
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Renkli duman çıkaran işaret fişekleri - Bedrock portu. Orijinal mod: RollingDice26. Bedrock portu: Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Eşyalar
+item.signal_flares.red_flare_shell=Kırmızı İşaret Fişeği Kovanı
+item.signal_flares.green_flare_shell=Yeşil İşaret Fişeği Kovanı
+item.signal_flares.blue_flare_shell=Mavi İşaret Fişeği Kovanı
+item.signal_flares.white_flare_shell=Beyaz İşaret Fişeği Kovanı
+item.signal_flares.yellow_flare_shell=Sarı İşaret Fişeği Kovanı
+item.signal_flares.pink_flare_shell=Pembe İşaret Fişeği Kovanı
+item.signal_flares.cyan_flare_shell=Camgöbeği İşaret Fişeği Kovanı
+item.signal_flares.orange_flare_shell=Turuncu İşaret Fişeği Kovanı
+item.signal_flares.black_flare_shell=Siyah İşaret Fişeği Kovanı
+item.signal_flares.glowstone_flare_shell=Işık Taşı İşaret Fişeği Kovanı
+item.signal_flares.amethyst_flare_shell=Ametist İşaret Fişeği Kovanı
+item.signal_flares.iron_flare_shell=Demir İşaret Fişeği Kovanı
+item.signal_flares.echo_flare_shell=Yankı İşaret Fişeği Kovanı
+item.signal_flares.green_light_stick=Yeşil Işık Çubuğu
+item.signal_flares.pink_light_stick=Pembe Işık Çubuğu
+item.signal_flares.cyan_light_stick=Camgöbeği Işık Çubuğu
+item.signal_flares.stickly_light_stick=Yapışkan Yeşil Işık Çubuğu
+item.signal_flares.sticky_cyan_light_stick=Yapışkan Camgöbeği Işık Çubuğu
+item.signal_flares.sticky_pink_light_stick=Yapışkan Pembe Işık Çubuğu
+item.signal_flares.echo_light_stick=Yankı Işık Çubuğu
+item.signal_flares.flare_gun=İşaret Fişeği Tabancası
+item.signal_flares.range_finder=Menzil Bulucu
+
+## Bloklar
+tile.signal_flares:light_stick_block.name=Işık Çubuğu Bloğu
+
+## Varlıklar
+entity.signal_flares:light_stick_e.name=Işık Çubuğu
+entity.signal_flares:pink_light_stick_e.name=Işık Çubuğu
+entity.signal_flares:cyan_light_stick_e.name=Işık Çubuğu
+entity.signal_flares:sticky_light_stick_e.name=Işık Çubuğu
+entity.signal_flares:sticky_cyan_light_stick_e.name=Işık Çubuğu
+entity.signal_flares:sticky_pink_light_stick_e.name=Işık Çubuğu
+entity.signal_flares:echo_light_stick_e.name=Işık Çubuğu
+entity.signal_flares:red_flare.name=Kırmızı İşaret Fişeği
+entity.signal_flares:green_flare.name=Yeşil İşaret Fişeği
+entity.signal_flares:blue_flare.name=Mavi İşaret Fişeği
+entity.signal_flares:white_flare.name=Beyaz İşaret Fişeği
+entity.signal_flares:yellow_flare.name=Sarı İşaret Fişeği
+entity.signal_flares:pink_flare.name=Pembe İşaret Fişeği
+entity.signal_flares:cyan_flare.name=Camgöbeği İşaret Fişeği
+entity.signal_flares:orange_flare.name=Turuncu İşaret Fişeği
+entity.signal_flares:black_flare.name=Siyah İşaret Fişeği
+entity.signal_flares:glowstone_flare.name=Işık Taşı İşaret Fişeği
+entity.signal_flares:amethyst_flare.name=Ametist İşaret Fişeği
+entity.signal_flares:iron_flare.name=Demir İşaret Fişeği

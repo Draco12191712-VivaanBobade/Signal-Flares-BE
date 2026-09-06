@@ -1,0 +1,51 @@
+## Metadados do Pacote
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Sinalizadores com fumo colorido - Port para Bedrock. Mod original por RollingDice26. Port para Bedrock por Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Itens
+item.signal_flares.red_flare_shell=Cartucho de sinalizador vermelho
+item.signal_flares.green_flare_shell=Cartucho de sinalizador verde
+item.signal_flares.blue_flare_shell=Cartucho de sinalizador azul
+item.signal_flares.white_flare_shell=Cartucho de sinalizador branco
+item.signal_flares.yellow_flare_shell=Cartucho de sinalizador amarelo
+item.signal_flares.pink_flare_shell=Cartucho de sinalizador cor-de-rosa
+item.signal_flares.cyan_flare_shell=Cartucho de sinalizador ciano
+item.signal_flares.orange_flare_shell=Cartucho de sinalizador cor de laranja
+item.signal_flares.black_flare_shell=Cartucho de sinalizador preto
+item.signal_flares.glowstone_flare_shell=Cartucho de sinalizador de pedra luminosa
+item.signal_flares.amethyst_flare_shell=Cartucho de sinalizador de ametista
+item.signal_flares.iron_flare_shell=Cartucho de sinalizador de ferro
+item.signal_flares.echo_flare_shell=Cartucho de sinalizador do eco
+item.signal_flares.green_light_stick=Bastão luminoso verde
+item.signal_flares.pink_light_stick=Bastão luminoso cor-de-rosa
+item.signal_flares.cyan_light_stick=Bastão luminoso ciano
+item.signal_flares.stickly_light_stick=Bastão luminoso verde adesivo
+item.signal_flares.sticky_cyan_light_stick=Bastão luminoso ciano adesivo
+item.signal_flares.sticky_pink_light_stick=Bastão luminoso cor-de-rosa adesivo
+item.signal_flares.echo_light_stick=Bastão luminoso do eco
+item.signal_flares.flare_gun=Pistola de sinalizadores
+item.signal_flares.range_finder=Telémetro
+
+## Blocos
+tile.signal_flares:light_stick_block.name=Bloco de bastões luminosos
+
+## Entidades
+entity.signal_flares:light_stick_e.name=Bastão luminoso
+entity.signal_flares:pink_light_stick_e.name=Bastão luminoso
+entity.signal_flares:cyan_light_stick_e.name=Bastão luminoso
+entity.signal_flares:sticky_light_stick_e.name=Bastão luminoso
+entity.signal_flares:sticky_cyan_light_stick_e.name=Bastão luminoso
+entity.signal_flares:sticky_pink_light_stick_e.name=Bastão luminoso
+entity.signal_flares:echo_light_stick_e.name=Bastão luminoso
+entity.signal_flares:red_flare.name=Sinalizador vermelho
+entity.signal_flares:green_flare.name=Sinalizador verde
+entity.signal_flares:blue_flare.name=Sinalizador azul
+entity.signal_flares:white_flare.name=Sinalizador branco
+entity.signal_flares:yellow_flare.name=Sinalizador amarelo
+entity.signal_flares:pink_flare.name=Sinalizador cor-de-rosa
+entity.signal_flares:cyan_flare.name=Sinalizador ciano
+entity.signal_flares:orange_flare.name=Sinalizador cor de laranja
+entity.signal_flares:black_flare.name=Sinalizador preto
+entity.signal_flares:glowstone_flare.name=Sinalizador de pedra luminosa
+entity.signal_flares:amethyst_flare.name=Sinalizador de ametista
+entity.signal_flares:iron_flare.name=Sinalizador de ferro

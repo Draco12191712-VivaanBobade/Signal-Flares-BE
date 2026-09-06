@@ -1,0 +1,51 @@
+## Csomag metaadatai
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Színes füstöt kibocsátó jelzőrakéták - Bedrock-port. Eredeti mod: RollingDice26. Bedrock-port: Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Tárgyak
+item.signal_flares.red_flare_shell=Piros jelzőrakéta-hüvely
+item.signal_flares.green_flare_shell=Zöld jelzőrakéta-hüvely
+item.signal_flares.blue_flare_shell=Kék jelzőrakéta-hüvely
+item.signal_flares.white_flare_shell=Fehér jelzőrakéta-hüvely
+item.signal_flares.yellow_flare_shell=Sárga jelzőrakéta-hüvely
+item.signal_flares.pink_flare_shell=Rózsaszín jelzőrakéta-hüvely
+item.signal_flares.cyan_flare_shell=Cián jelzőrakéta-hüvely
+item.signal_flares.orange_flare_shell=Narancssárga jelzőrakéta-hüvely
+item.signal_flares.black_flare_shell=Fekete jelzőrakéta-hüvely
+item.signal_flares.glowstone_flare_shell=Fénykőből készült jelzőrakéta-hüvely
+item.signal_flares.amethyst_flare_shell=Ametiszt jelzőrakéta-hüvely
+item.signal_flares.iron_flare_shell=Vas jelzőrakéta-hüvely
+item.signal_flares.echo_flare_shell=Visszhangkőből készült jelzőrakéta-hüvely
+item.signal_flares.green_light_stick=Zöld világító rúd
+item.signal_flares.pink_light_stick=Rózsaszín világító rúd
+item.signal_flares.cyan_light_stick=Cián világító rúd
+item.signal_flares.stickly_light_stick=Ragadós zöld világító rúd
+item.signal_flares.sticky_cyan_light_stick=Ragadós cián világító rúd
+item.signal_flares.sticky_pink_light_stick=Ragadós rózsaszín világító rúd
+item.signal_flares.echo_light_stick=Visszhang-világító rúd
+item.signal_flares.flare_gun=Jelzőrakéta-pisztoly
+item.signal_flares.range_finder=Távolságmérő
+
+## Blokkok
+tile.signal_flares:light_stick_block.name=Világítórúd-blokk
+
+## Entitások
+entity.signal_flares:light_stick_e.name=Világító rúd
+entity.signal_flares:pink_light_stick_e.name=Világító rúd
+entity.signal_flares:cyan_light_stick_e.name=Világító rúd
+entity.signal_flares:sticky_light_stick_e.name=Világító rúd
+entity.signal_flares:sticky_cyan_light_stick_e.name=Világító rúd
+entity.signal_flares:sticky_pink_light_stick_e.name=Világító rúd
+entity.signal_flares:echo_light_stick_e.name=Világító rúd
+entity.signal_flares:red_flare.name=Piros jelzőrakéta
+entity.signal_flares:green_flare.name=Zöld jelzőrakéta
+entity.signal_flares:blue_flare.name=Kék jelzőrakéta
+entity.signal_flares:white_flare.name=Fehér jelzőrakéta
+entity.signal_flares:yellow_flare.name=Sárga jelzőrakéta
+entity.signal_flares:pink_flare.name=Rózsaszín jelzőrakéta
+entity.signal_flares:cyan_flare.name=Cián jelzőrakéta
+entity.signal_flares:orange_flare.name=Narancssárga jelzőrakéta
+entity.signal_flares:black_flare.name=Fekete jelzőrakéta
+entity.signal_flares:glowstone_flare.name=Fénykőből készült jelzőrakéta
+entity.signal_flares:amethyst_flare.name=Ametiszt jelzőrakéta
+entity.signal_flares:iron_flare.name=Vas jelzőrakéta

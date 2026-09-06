@@ -1,0 +1,51 @@
+## Μεταδεδομένα πακέτου
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Φωτοβολίδες με χρωματιστό καπνό - Port για Bedrock. Αρχικό Mod από τον RollingDice26. Port για Bedrock από τον Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Αντικείμενα
+item.signal_flares.red_flare_shell=Κόκκινο περίβλημα φωτοβολίδας
+item.signal_flares.green_flare_shell=Πράσινο περίβλημα φωτοβολίδας
+item.signal_flares.blue_flare_shell=Μπλε περίβλημα φωτοβολίδας
+item.signal_flares.white_flare_shell=Λευκό περίβλημα φωτοβολίδας
+item.signal_flares.yellow_flare_shell=Κίτρινο περίβλημα φωτοβολίδας
+item.signal_flares.pink_flare_shell=Ροζ περίβλημα φωτοβολίδας
+item.signal_flares.cyan_flare_shell=Κυανό περίβλημα φωτοβολίδας
+item.signal_flares.orange_flare_shell=Πορτοκαλί περίβλημα φωτοβολίδας
+item.signal_flares.black_flare_shell=Μαύρο περίβλημα φωτοβολίδας
+item.signal_flares.glowstone_flare_shell=Περίβλημα φωτοβολίδας από λαμπρόλιθο
+item.signal_flares.amethyst_flare_shell=Αμέθυστο περίβλημα φωτοβολίδας
+item.signal_flares.iron_flare_shell=Σιδερένιο περίβλημα φωτοβολίδας
+item.signal_flares.echo_flare_shell=Περίβλημα φωτοβολίδας από ηχώ
+item.signal_flares.green_light_stick=Πράσινο φωτεινό ραβδί
+item.signal_flares.pink_light_stick=Ροζ φωτεινό ραβδί
+item.signal_flares.cyan_light_stick=Κυανό φωτεινό ραβδί
+item.signal_flares.stickly_light_stick=Κολλώδες πράσινο φωτεινό ραβδί
+item.signal_flares.sticky_cyan_light_stick=Κολλώδες κυανό φωτεινό ραβδί
+item.signal_flares.sticky_pink_light_stick=Κολλώδες ροζ φωτεινό ραβδί
+item.signal_flares.echo_light_stick=Φωτεινό ραβδί ηχούς
+item.signal_flares.flare_gun=Πιστόλι φωτοβολίδων
+item.signal_flares.range_finder=Αποστασιόμετρο
+
+## Μπλοκ
+tile.signal_flares:light_stick_block.name=Μπλοκ φωτεινών ραβδιών
+
+## Οντότητες
+entity.signal_flares:light_stick_e.name=Φωτεινό ραβδί
+entity.signal_flares:pink_light_stick_e.name=Φωτεινό ραβδί
+entity.signal_flares:cyan_light_stick_e.name=Φωτεινό ραβδί
+entity.signal_flares:sticky_light_stick_e.name=Φωτεινό ραβδί
+entity.signal_flares:sticky_cyan_light_stick_e.name=Φωτεινό ραβδί
+entity.signal_flares:sticky_pink_light_stick_e.name=Φωτεινό ραβδί
+entity.signal_flares:echo_light_stick_e.name=Φωτεινό ραβδί
+entity.signal_flares:red_flare.name=Κόκκινη φωτοβολίδα
+entity.signal_flares:green_flare.name=Πράσινη φωτοβολίδα
+entity.signal_flares:blue_flare.name=Μπλε φωτοβολίδα
+entity.signal_flares:white_flare.name=Λευκή φωτοβολίδα
+entity.signal_flares:yellow_flare.name=Κίτρινη φωτοβολίδα
+entity.signal_flares:pink_flare.name=Ροζ φωτοβολίδα
+entity.signal_flares:cyan_flare.name=Κυανή φωτοβολίδα
+entity.signal_flares:orange_flare.name=Πορτοκαλί φωτοβολίδα
+entity.signal_flares:black_flare.name=Μαύρη φωτοβολίδα
+entity.signal_flares:glowstone_flare.name=Φωτοβολίδα από λαμπρόλιθο
+entity.signal_flares:amethyst_flare.name=Αμέθυστη φωτοβολίδα
+entity.signal_flares:iron_flare.name=Σιδερένια φωτοβολίδα

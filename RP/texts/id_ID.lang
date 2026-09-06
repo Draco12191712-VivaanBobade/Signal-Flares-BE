@@ -1,0 +1,51 @@
+## Metadata Paket
+pack.name=Signal Flares BE RP
+pack.description=Signal Flares: Suar dengan asap berwarna - Port Bedrock. Mod asli oleh RollingDice26. Port Bedrock oleh Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1
+
+## Item
+item.signal_flares.red_flare_shell=Selongsong Suar Merah
+item.signal_flares.green_flare_shell=Selongsong Suar Hijau
+item.signal_flares.blue_flare_shell=Selongsong Suar Biru
+item.signal_flares.white_flare_shell=Selongsong Suar Putih
+item.signal_flares.yellow_flare_shell=Selongsong Suar Kuning
+item.signal_flares.pink_flare_shell=Selongsong Suar Merah Muda
+item.signal_flares.cyan_flare_shell=Selongsong Suar Sian
+item.signal_flares.orange_flare_shell=Selongsong Suar Oranye
+item.signal_flares.black_flare_shell=Selongsong Suar Hitam
+item.signal_flares.glowstone_flare_shell=Selongsong Suar Batu Cahaya
+item.signal_flares.amethyst_flare_shell=Selongsong Suar Amethyst
+item.signal_flares.iron_flare_shell=Selongsong Suar Besi
+item.signal_flares.echo_flare_shell=Selongsong Suar Gema
+item.signal_flares.green_light_stick=Stik Cahaya Hijau
+item.signal_flares.pink_light_stick=Stik Cahaya Merah Muda
+item.signal_flares.cyan_light_stick=Stik Cahaya Sian
+item.signal_flares.stickly_light_stick=Stik Cahaya Hijau Lengket
+item.signal_flares.sticky_cyan_light_stick=Stik Cahaya Sian Lengket
+item.signal_flares.sticky_pink_light_stick=Stik Cahaya Merah Muda Lengket
+item.signal_flares.echo_light_stick=Stik Cahaya Gema
+item.signal_flares.flare_gun=Senapan Suar
+item.signal_flares.range_finder=Pengukur Jarak
+
+## Blok
+tile.signal_flares:light_stick_block.name=Blok Stik Cahaya
+
+## Entitas
+entity.signal_flares:light_stick_e.name=Stik Cahaya
+entity.signal_flares:pink_light_stick_e.name=Stik Cahaya
+entity.signal_flares:cyan_light_stick_e.name=Stik Cahaya
+entity.signal_flares:sticky_light_stick_e.name=Stik Cahaya
+entity.signal_flares:sticky_cyan_light_stick_e.name=Stik Cahaya
+entity.signal_flares:sticky_pink_light_stick_e.name=Stik Cahaya
+entity.signal_flares:echo_light_stick_e.name=Stik Cahaya
+entity.signal_flares:red_flare.name=Suar Merah
+entity.signal_flares:green_flare.name=Suar Hijau
+entity.signal_flares:blue_flare.name=Suar Biru
+entity.signal_flares:white_flare.name=Suar Putih
+entity.signal_flares:yellow_flare.name=Suar Kuning
+entity.signal_flares:pink_flare.name=Suar Merah Muda
+entity.signal_flares:cyan_flare.name=Suar Sian
+entity.signal_flares:orange_flare.name=Suar Oranye
+entity.signal_flares:black_flare.name=Suar Hitam
+entity.signal_flares:glowstone_flare.name=Suar Batu Cahaya
+entity.signal_flares:amethyst_flare.name=Suar Amethyst
+entity.signal_flares:iron_flare.name=Suar Besi

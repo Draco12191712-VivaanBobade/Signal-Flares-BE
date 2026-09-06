@@ -1,0 +1,58 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "signal_flares:cyan_light_stick_e",
+      "is_spawnable": false,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "component_groups": {
+      "signal_flares:stuck": {
+        "minecraft:physics": {
+          "has_gravity": false,
+          "has_collision": true
+        }
+      }
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": [
+          "signal_flares",
+          "sf_stick",
+          "sf_active"
+        ]
+      },
+      "minecraft:collision_box": {
+        "width": 0.5,
+        "height": 0.4
+      },
+      "minecraft:physics": {
+        "has_gravity": true,
+        "has_collision": true
+      },
+      "minecraft:pushable": {
+        "is_pushable": false,
+        "is_pushable_by_piston": false
+      },
+      "minecraft:knockback_resistance": {
+        "value": 1.0
+      },
+      "minecraft:fire_immune": true,
+      "minecraft:health": {
+        "value": 4,
+        "max": 4
+      },
+      "minecraft:conditional_bandwidth_optimization": {}
+    },
+    "events": {
+      "signal_flares:stick": {
+        "add": {
+          "component_groups": [
+            "signal_flares:stuck"
+          ]
+        }
+      }
+    }
+  }
+}

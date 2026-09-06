@@ -1,0 +1,31 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "signal_flares:echo_light_stick_craft_1"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " ab",
+      "aca",
+      "ba "
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:glass"
+      },
+      "b": {
+        "item": "minecraft:glow_ink_sac"
+      },
+      "c": {
+        "item": "minecraft:echo_shard"
+      }
+    },
+    "result": {
+      "item": "signal_flares:echo_light_stick",
+      "count": 4
+    }
+  }
+}

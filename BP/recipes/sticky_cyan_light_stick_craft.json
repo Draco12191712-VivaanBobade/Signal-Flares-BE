@@ -1,0 +1,28 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "signal_flares:sticky_cyan_light_stick_craft"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " a ",
+      "aba",
+      " a "
+    ],
+    "key": {
+      "a": {
+        "item": "signal_flares:cyan_light_stick"
+      },
+      "b": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "result": {
+      "item": "signal_flares:sticky_cyan_light_stick",
+      "count": 4
+    }
+  }
+}
