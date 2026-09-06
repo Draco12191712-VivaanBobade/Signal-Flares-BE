@@ -1,0 +1,27 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.signal_flares.default": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default"
+      ]
+    },
+    "controller.render.signal_flares.attachable": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "signal_flares:pink_flare",
+      "materials": {
+        "default": "entity_emissive_alpha"
+      },
+      "textures": {
+        "default": "textures/signal_flares/entity/pink_flare"
+      },
+      "geometry": {
+        "default": "geometry.signal_flares.flare_sprite"
+      },
+      "render_controllers": [
+        "controller.render.signal_flares.default"
+      ]
+    }
+  }
+}

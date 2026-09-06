@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "signal_flares:sticky_pink_light_stick_e",
+      "materials": {
+        "default": "entity_emissive_alpha"
+      },
+      "textures": {
+        "default": "textures/signal_flares/entity/sticky_pink_glow_stick"
+      },
+      "geometry": {
+        "default": "geometry.signal_flares.glow_stick"
+      },
+      "render_controllers": [
+        "controller.render.signal_flares.default"
+      ]
+    }
+  }
+}

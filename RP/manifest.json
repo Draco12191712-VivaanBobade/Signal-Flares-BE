@@ -1,0 +1,52 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [
+            "Draco12191712 (Vivaan Bobade)"
+        ],
+        "generated_with": {
+            "bridge": [
+                "2.7.54"
+            ],
+            "dash": [
+                "0.11.7"
+            ]
+        }
+    },
+    "header": {
+        "name": "pack.name",
+        "description": "pack.description",
+        "min_engine_version": [
+            1,
+            26,
+            0
+        ],
+        "uuid": "69da6520-4e90-4ae6-b623-684e071a1438",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "7da30242-4eec-4651-bf18-ecd54ce93cc1",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "3c962e49-1364-491f-b47a-52c0b412d1e0",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+  "resource_pack_name": "signal_flares",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "signal_flares:red_flare_shell": {
+      "textures": "textures/signal_flares/item/red_flare_shell"
+    },
+    "signal_flares:green_flare_shell": {
+      "textures": "textures/signal_flares/item/green_flare_shell"
+    },
+    "signal_flares:blue_flare_shell": {
+      "textures": "textures/signal_flares/item/blue_flare_shell"
+    },
+    "signal_flares:white_flare_shell": {
+      "textures": "textures/signal_flares/item/white_flare_shell"
+    },
+    "signal_flares:yellow_flare_shell": {
+      "textures": "textures/signal_flares/item/yellow_flare_shell"
+    },
+    "signal_flares:pink_flare_shell": {
+      "textures": "textures/signal_flares/item/pink_flare_shell"
+    },
+    "signal_flares:cyan_flare_shell": {
+      "textures": "textures/signal_flares/item/cyan_flare_shell"
+    },
+    "signal_flares:orange_flare_shell": {
+      "textures": "textures/signal_flares/item/orange_flare_shell"
+    },
+    "signal_flares:black_flare_shell": {
+      "textures": "textures/signal_flares/item/black_flare_shell"
+    },
+    "signal_flares:glowstone_flare_shell": {
+      "textures": "textures/signal_flares/item/glowstone_flare_shell"
+    },
+    "signal_flares:amethyst_flare_shell": {
+      "textures": "textures/signal_flares/item/amethyst_flare_shell"
+    },
+    "signal_flares:iron_flare_shell": {
+      "textures": "textures/signal_flares/item/iron_flare_shell"
+    },
+    "signal_flares:echo_flare_shell": {
+      "textures": "textures/signal_flares/item/echo_flare_shell"
+    },
+    "signal_flares:green_light_stick": {
+      "textures": "textures/signal_flares/item/green_light_stick"
+    },
+    "signal_flares:pink_light_stick": {
+      "textures": "textures/signal_flares/item/pink_light_stick"
+    },
+    "signal_flares:cyan_light_stick": {
+      "textures": "textures/signal_flares/item/cyan_light_stick"
+    },
+    "signal_flares:stickly_light_stick": {
+      "textures": "textures/signal_flares/item/stickly_light_stick"
+    },
+    "signal_flares:sticky_cyan_light_stick": {
+      "textures": "textures/signal_flares/item/sticky_cyan_light_stick"
+    },
+    "signal_flares:sticky_pink_light_stick": {
+      "textures": "textures/signal_flares/item/sticky_pink_light_stick"
+    },
+    "signal_flares:echo_light_stick": {
+      "textures": "textures/signal_flares/item/echo_light_stick"
+    },
+    "signal_flares:flare_gun": {
+      "textures": "textures/signal_flares/item/flare_gun"
+    },
+    "signal_flares:range_finder": {
+      "textures": "textures/signal_flares/item/range_finder"
+    }
+  }
+}

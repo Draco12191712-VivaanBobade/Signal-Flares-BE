@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "signal_flares:range_finder",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/signal_flares/models/range_finder"
+      },
+      "geometry": {
+        "default": "geometry.signal_flares.range_finder"
+      },
+      "animations": {
+        "first_person": "animation.signal_flares.range_finder.first_person",
+        "third_person": "animation.signal_flares.range_finder.third_person",
+        "controller": "controller.animation.signal_flares.range_finder"
+      },
+      "scripts": {
+        "animate": [
+          "controller"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.signal_flares.attachable"
+      ]
+    }
+  }
+}

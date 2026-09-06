@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "signal_flares:flare_gun",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/signal_flares/models/flare_gun"
+      },
+      "geometry": {
+        "default": "geometry.signal_flares.flare_gun"
+      },
+      "animations": {
+        "first_person": "animation.signal_flares.flare_gun.first_person",
+        "third_person": "animation.signal_flares.flare_gun.third_person",
+        "controller": "controller.animation.signal_flares.flare_gun"
+      },
+      "scripts": {
+        "animate": [
+          "controller"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.signal_flares.attachable"
+      ]
+    }
+  }
+}

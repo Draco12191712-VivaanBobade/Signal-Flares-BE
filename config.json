@@ -1,0 +1,40 @@
+{
+  "type": "minecraftBedrock",
+  "name": "Signal Flares BE",
+  "namespace": "signal_flares",
+  "authors": ["Draco12191712 (Vivaan Bobade)"],
+  "targetVersion": "1.26.0",
+  "description": "Signal Flares: Flares with colored smoke - Bedrock port. Original Mod by RollingDice26. Bedrock Port by Draco12191712 (Vivaan Bobade) v0.0.1-alpha.1",
+  "experimentalGameplay": {
+    "upcomingCreatorFeatures": true,
+    "experimentalCreatorCameraFeatures": true,
+    "enableGameTestFramework": true,
+    "renderDragonFeatures": true,
+    "educationEdition": false
+  },
+  "bdsProject": false,
+  "packs": {
+    "resourcePack": "./RP",
+    "behaviorPack": "./BP"
+  },
+  "worlds": ["./worlds/*"],
+  "compiler": {
+    "plugins": [
+      "generatorScripts",
+      "typeScript",
+      "entityIdentifierAlias",
+      "customEntityComponents",
+      "customItemComponents",
+      "customBlockComponents",
+      "customCommands",
+      "moLang",
+      "formatVersionCorrection",
+      [
+        "simpleRewrite",
+        {
+          "packName": "Signal Flares BE"
+        }
+      ]
+    ]
+  }
+}

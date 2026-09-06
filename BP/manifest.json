@@ -1,0 +1,71 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [
+            "Draco12191712 (Vivaan Bobade)"
+        ],
+        "generated_with": {
+            "bridge": [
+                "2.7.54"
+            ],
+            "dash": [
+                "0.11.7"
+            ]
+        }
+    },
+    "header": {
+        "name": "pack.name",
+        "description": "pack.description",
+        "min_engine_version": [
+            1,
+            26,
+            0
+        ],
+        "uuid": "3c962e49-1364-491f-b47a-52c0b412d1e0",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "c6284be3-f978-4ccd-8809-121e87fe5ae8",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "657a0b35-d723-4fa3-8c2a-67b1c4c8c3a7",
+            "entry": "scripts/main.js",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "69da6520-4e90-4ae6-b623-684e071a1438",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.10.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "2.2.0-beta"
+        }
+    ]
+}
