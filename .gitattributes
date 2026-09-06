@@ -1,0 +1,35 @@
+* text=auto eol=lf
+*.json linguist-language=JavaScript
+*.jsonc linguist-language=JavaScript
+*.mcpack linguist-generated=true
+*.mcaddon linguist-generated=true
+build/** linguist-generated=true
+dist/** linguist-generated=true
+release/** linguist-generated=true
+*.json text
+*.js text
+*.ts text
+*.md text
+*.txt text
+*.yml text
+*.yaml text
+*.mcmeta text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.tga binary
+*.dds binary
+*.ico binary
+*.ogg binary
+*.wav binary
+*.mp3 binary
+*.ttf binary
+*.otf binary
+*.mcpack binary
+*.mcaddon binary
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.sh text eol=lf
